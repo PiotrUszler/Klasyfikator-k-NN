@@ -1,0 +1,21 @@
+c:\users\xotha\documents\visual studio 2015\Projects\cw2\cw2\bin\Debug\cw2.exe.config
+c:\users\xotha\documents\visual studio 2015\Projects\cw2\cw2\bin\Debug\cw2.exe
+c:\users\xotha\documents\visual studio 2015\Projects\cw2\cw2\bin\Debug\cw2.pdb
+c:\users\xotha\documents\visual studio 2015\Projects\cw2\cw2\obj\Debug\cw2.csprojResolveAssemblyReference.cache
+c:\users\xotha\documents\visual studio 2015\Projects\cw2\cw2\obj\Debug\cw2.Form1.resources
+c:\users\xotha\documents\visual studio 2015\Projects\cw2\cw2\obj\Debug\cw2.Properties.Resources.resources
+c:\users\xotha\documents\visual studio 2015\Projects\cw2\cw2\obj\Debug\cw2.csproj.GenerateResource.Cache
+c:\users\xotha\documents\visual studio 2015\Projects\cw2\cw2\obj\Debug\cw2.exe
+c:\users\xotha\documents\visual studio 2015\Projects\cw2\cw2\obj\Debug\cw2.pdb
+C:\Users\xotha\Desktop\cw2\cw2\bin\Debug\cw2.exe.config
+C:\Users\xotha\Desktop\cw2\cw2\obj\Debug\cw2.exe
+C:\Users\xotha\Desktop\cw2\cw2\obj\Debug\cw2.pdb
+C:\Users\xotha\Desktop\cw2\cw2\bin\Debug\cw2.exe
+C:\Users\xotha\Desktop\cw2\cw2\bin\Debug\cw2.pdb
+C:\Users\xotha\Desktop\cw2\cw2\obj\Debug\cw2.csprojResolveAssemblyReference.cache
+C:\Users\xotha\Desktop\cw2\cw2\obj\Debug\cw2.Form1.resources
+C:\Users\xotha\Desktop\cw2\cw2\obj\Debug\cw2.Properties.Resources.resources
+C:\Users\xotha\Desktop\cw2\cw2\obj\Debug\cw2.csproj.GenerateResource.Cache
+C:\Users\xotha\Source\Repos\Klasyfikator-k-NN\cw2\cw2\bin\Debug\cw2.exe.config
+C:\Users\xotha\Source\Repos\Klasyfikator-k-NN\cw2\cw2\obj\Debug\cw2.exe
+C:\Users\xotha\Source\Repos\Klasyfikator-k-NN\cw2\cw2\obj\Debug\cw2.pdb
